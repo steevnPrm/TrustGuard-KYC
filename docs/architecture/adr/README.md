@@ -16,4 +16,4 @@ Nommage : `NNNN-titre-court.md` (ex. `0001-record-architecture-decisions.md`).
 
 | ADR | Titre | Statut |
 |-----|-------|--------|
-| — | _Aucune décision enregistrée_ | — |
+| ADR-001 | Intégration OCR Tesseract dockerisé sur Scaleway | Accepté — remplace ADR-013 (dépôt historique) |
